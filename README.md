@@ -11,9 +11,7 @@
 
 ### Links
 
-- Solution URL: [HTML](https://your-solution-url.com)
-- Solution URL: [CSS](https://your-solution-url.com)
-- Live Site URL: [LIVE SITE](https://your-live-site-url.com)
+- Live Site URL: [LIVE SITE](https://zahidurrahman8759.github.io/Abstract-LandingPage/)
 
 ### Built with
 
